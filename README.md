@@ -4,6 +4,7 @@ Django에서 subprocess를 사용하여 도스 명령어 중 dir 을 실행시�
 
 * 주의
 config/settings.py 내부의 SECRET_KEY는 본인의 Django project를 만들어서 사용하시면 됩니다.
+
 참고영상 :
 https://www.youtube.com/playlist?list=PLr_ki3_GfpZMCHR_Im1AEeRd-NNs16KSh
 
